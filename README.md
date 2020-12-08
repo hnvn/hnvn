@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thank you for taking the time to visit my github website. 
+
+- This is my 😄: https://profile-summary-for-github.com/user/hnvn
+- Mail me 📫: hunghd.yb@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hnvn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hnvn/hnvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
